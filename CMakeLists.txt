@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23.2)
+project(basic-image-filtering)
+find_package(OpenCV REQUIRED)
+add_executable( basic-image-filtering main.cpp)
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+target_link_libraries( basic-image-filtering ${OpenCV_LIBS} )

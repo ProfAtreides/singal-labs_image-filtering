@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S U:\Project\Signal\signal-processing-labs\basic-image-filtering -B U:\Project\Signal\signal-processing-labs\basic-image-filtering\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: U:/Project/Signal/signal-processing-labs/basic-image-filtering/cmake-build-debug

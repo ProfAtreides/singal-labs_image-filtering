@@ -1,0 +1,3 @@
+U:/Project/Signal/signal-processing-labs/basic-image-filtering/cmake-build-debug/CMakeFiles/basic-image-filtering.dir
+U:/Project/Signal/signal-processing-labs/basic-image-filtering/cmake-build-debug/CMakeFiles/edit_cache.dir
+U:/Project/Signal/signal-processing-labs/basic-image-filtering/cmake-build-debug/CMakeFiles/rebuild_cache.dir
